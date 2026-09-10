@@ -10,7 +10,7 @@ const statusEl = document.getElementById("status");
 const transcriptEl = document.getElementById("transcript");
 
 // Your agent's public ID (safe to expose - it's not a secret, just an identifier)
-const AGENT_ID = "coop"; // <-- replace with your real agent ID from the ElevenLabs dashboard
+const AGENT_ID = "AbCdEf123456xyz"; // <-- replace with your real agent ID from the ElevenLabs dashboard
 
 let conversation = null;
 let isActive = false;
