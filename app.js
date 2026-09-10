@@ -10,7 +10,7 @@ const statusEl = document.getElementById("status");
 const transcriptEl = document.getElementById("transcript");
 
 // Your agent's public ID (safe to expose - it's not a secret, just an identifier)
-const AGENT_ID = "conv_6601m252sp6be4gbzb5rc1ze6hng";
+const AGENT_ID = "agent_1901m24yzdn0fnh9qg837ek2d6p0";
 
 let conversation = null;
 let isActive = false;
